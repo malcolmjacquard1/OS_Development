@@ -9,4 +9,4 @@ main:
 
 
 times 510-($-$$) db 0
-dw 0aa55h
+dw 0xaa55
